@@ -1,4 +1,4 @@
-# Acm Posts Comments
+# Acme Posts Comments
 
 A basic fullstack application that utilizes React, Express, and Postgres to simulate a database being accessed and showing the data on the frontend.
 
